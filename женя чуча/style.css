@@ -16,7 +16,7 @@ body{
   margin-bottom: 5px; 
   border-radius: 5px; 
   box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
-  background-position: left;
+  background-position: bottom left;
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -24,7 +24,7 @@ body{
 #sidebar{ 
   background-color: #7e6f7f; 
   width: 180px;
-  height: 385px; 
+  height: 405px; 
   padding: 10px; 
   float: right;
   border-radius: 5px;
@@ -136,7 +136,7 @@ body{
   margin-bottom: 5px; 
   width: 676px; 
   padding: 10px; 
-  background: #c099e5;
+  background: #6a5da3;
   border-radius: 5px;
   box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
   font-family: 'Anek Devanagari', monospace;
@@ -148,7 +148,7 @@ body{
   width: 880px; 
   height: 500px;
   padding: 10px; 
-  background: #c9789b;
+  background: #b36285;
   border-radius: 5px;
   box-shadow: rgba(113, 112, 112, 0.5) 0px 1px 3px;
   font-family: 'Anek Devanagari', monospace;
@@ -168,7 +168,7 @@ body{
 }
 #footer{ 
   height:80px; 
-  background-color: #c099e5;
+  background-color: #bd87f0;
   margin-bottom: 10px; 
   border-radius: 5px; 
   box-shadow: rgba(0,0,0,0.5) 0px 1px 3px; 
